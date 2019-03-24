@@ -12,6 +12,10 @@
   <name>Activiti :: Dependencies BOM (Bill Of Materials)</name>
   <dependencyManagement>
     <dependencies>
+        <dependency>
+            <groupId></groupId>
+            <artifactId></artifactId>
+        </dependency>
       <dependency>
         <groupId>org.activiti.api</groupId>
         <artifactId>activiti-api-dependencies</artifactId>
